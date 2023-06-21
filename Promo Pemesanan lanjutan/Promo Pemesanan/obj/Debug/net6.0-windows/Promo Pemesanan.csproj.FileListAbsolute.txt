@@ -1,0 +1,72 @@
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.csproj.AssemblyReference.cache
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo_Pemesanan.Form1.resources
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo_Pemesanan.Properties.Resources.resources
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.csproj.GenerateResource.cache
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.AssemblyInfoInputs.cache
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.AssemblyInfo.cs
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.csproj.CoreCompileInputs.cache
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\bin\Debug\net6.0-windows\Promo Pemesanan.exe
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\bin\Debug\net6.0-windows\Promo Pemesanan.deps.json
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\bin\Debug\net6.0-windows\Promo Pemesanan.runtimeconfig.json
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\bin\Debug\net6.0-windows\Promo Pemesanan.dll
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\bin\Debug\net6.0-windows\Promo Pemesanan.pdb
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.dll
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\refint\Promo Pemesanan.dll
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.pdb
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.genruntimeconfig.cache
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\ref\Promo Pemesanan.dll
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\oneof\source\repos\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.csproj.CopyComplete
+D:\zai\Promo Pemesanan\Promo Pemesanan\bin\Debug\net6.0-windows\Promo Pemesanan.exe
+D:\zai\Promo Pemesanan\Promo Pemesanan\bin\Debug\net6.0-windows\Promo Pemesanan.deps.json
+D:\zai\Promo Pemesanan\Promo Pemesanan\bin\Debug\net6.0-windows\Promo Pemesanan.runtimeconfig.json
+D:\zai\Promo Pemesanan\Promo Pemesanan\bin\Debug\net6.0-windows\Promo Pemesanan.dll
+D:\zai\Promo Pemesanan\Promo Pemesanan\bin\Debug\net6.0-windows\Promo Pemesanan.pdb
+D:\zai\Promo Pemesanan\Promo Pemesanan\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\zai\Promo Pemesanan\Promo Pemesanan\bin\Debug\net6.0-windows\System.Management.dll
+D:\zai\Promo Pemesanan\Promo Pemesanan\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\zai\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.csproj.AssemblyReference.cache
+D:\zai\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo_Pemesanan.Form1.resources
+D:\zai\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo_Pemesanan.Properties.Resources.resources
+D:\zai\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.csproj.GenerateResource.cache
+D:\zai\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.GeneratedMSBuildEditorConfig.editorconfig
+D:\zai\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.AssemblyInfoInputs.cache
+D:\zai\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.AssemblyInfo.cs
+D:\zai\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.csproj.CoreCompileInputs.cache
+D:\zai\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.csproj.CopyComplete
+D:\zai\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.dll
+D:\zai\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\refint\Promo Pemesanan.dll
+D:\zai\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.pdb
+D:\zai\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.genruntimeconfig.cache
+D:\zai\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\ref\Promo Pemesanan.dll
+D:\zai\Promo Pemesanan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo_Pemesanan.Form2.resources
+D:\zai\Promo Pemesanan\Promo Pemesanan\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\zai\Promo Pemesanan\Promo Pemesanan\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\bin\Debug\net6.0-windows\Promo Pemesanan.exe
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\bin\Debug\net6.0-windows\Promo Pemesanan.deps.json
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\bin\Debug\net6.0-windows\Promo Pemesanan.runtimeconfig.json
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\bin\Debug\net6.0-windows\Promo Pemesanan.dll
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\bin\Debug\net6.0-windows\Promo Pemesanan.pdb
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.csproj.AssemblyReference.cache
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo_Pemesanan.Form1.resources
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo_Pemesanan.Form2.resources
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo_Pemesanan.Properties.Resources.resources
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.csproj.GenerateResource.cache
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.AssemblyInfoInputs.cache
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.AssemblyInfo.cs
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.csproj.CoreCompileInputs.cache
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.csproj.CopyComplete
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.dll
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\obj\Debug\net6.0-windows\refint\Promo Pemesanan.dll
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.pdb
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\obj\Debug\net6.0-windows\Promo Pemesanan.genruntimeconfig.cache
+C:\Users\rayha\Downloads\Promo Pemesanan lanjutan\Promo Pemesanan\obj\Debug\net6.0-windows\ref\Promo Pemesanan.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iRrzxKFMUl5rePns+wfPqEP915awrPRo66dFA7hrNb4UFOVo9dOThVM3dyH/Ml1ZpAlQz88FfKOc5S8zV953Yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rayha\\Downloads\\Promo Pemesanan lanjutan\\Promo Pemesanan\\Promo Pemesanan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rayha\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\rayha\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\rayha\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\rayha\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\rayha\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\rayha\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
